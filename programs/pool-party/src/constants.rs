@@ -1,0 +1,3 @@
+pub const ANCHOR_DISCRIMINATOR_SIZE: usize = 8;
+
+pub const DENOMINATOR_MULTIPLIER: u64 = 1_000_000_000;
